@@ -6,7 +6,7 @@ A simple web app built with **HTML**, **CSS**, and **JavaScript** to convert tem
 ---
 
 ## 🚀 **Live Demo**
-[View the live demo on GitHub Pages]((https://prudvija-06.github.io/Temp-Converter/))
+View the live demo on GitHub Pages https://prudvija-06.github.io/Temp-Converter/
 
 ---
 
